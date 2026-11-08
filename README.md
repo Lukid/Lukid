@@ -12,6 +12,7 @@ Vengo dallo sviluppo web e dalla community WordPress: speaker ai WordCamp, organ
 - **[ai-ready-content](https://github.com/Lukid/ai-ready-content)**: plugin WordPress che pubblica i contenuti in Markdown per LLM e agenti (endpoint `.md`, `llms.txt`, sitemap JSON).
 - **[wp-rag-wctrn26](https://github.com/Lukid/wp-rag-wctrn26)**: demo RAG su WordPress del talk "Far parlare i tuoi contenuti", WordCamp Torino 2026.
 - **[rag-locale-android](https://github.com/Lukid/rag-locale-android)**: pipeline RAG che gira tutta sul telefono, senza cloud. Kotlin, modelli locali.
+- **[digital-twin-firenze](https://github.com/Lukid/digital-twin-firenze)**: gemello digitale di un quartiere di Firenze costruito solo da open data, interrogabile da un agente via MCP.
 - **[lucabaroncini-blog](https://github.com/Lukid/lucabaroncini-blog)**: il codice del mio sito. Astro, Tailwind, Cloudflare Workers.
 
 ### Dove trovarmi
